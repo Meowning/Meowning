@@ -1,0 +1,7 @@
+- 👋 Hello! I'm @Meowning  
+- 👀 I'm interested in... **Backend Development & System Infrastructure**  
+- 💼 I have experience in... **backend design and managing on-premise resources like databases, servers, and networks** through academic projects at Kumoh National Institute of Technology
+- 🌱 I'm currently studying... **frontend (Svelte), NLP, and OCR** to broaden my skill set
+- 🏢 I'm interning at... **KEPCO E&C**
+- 🚀 I'm currently working on... **an Energy Tech Trend Notifier** — automatically collecting energy tech trends from public institutions and summarizing PDF reports
+- 📫 How to reach me... meowning@kumoh.ac.kr
